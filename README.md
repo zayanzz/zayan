@@ -15,10 +15,10 @@ My name is Zayan O. I'm a software developer with 1 year of experience, speciali
 - Git
 
 ## Languages
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5" width="100" height="100">
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3" width="100" height="100">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript" width="100" height="100">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat" alt="TypeScript" width="100" height="100">
 
 ## Contact Information
 Feel free to reach out to me via email at zayanolakara127@gmail.com.
