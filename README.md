@@ -13,8 +13,8 @@ My name is Zayan O. I'm a software developer with 1 year of experience, speciali
 - Bootstrap
 - TypeScript
 - Git
-        
-## Languages
+
+## Coding Languages
 <div>
   <img src="https://skillicons.dev/icons?i=python,html,js,cpp,css,git,bootstrap,c,typescript&perline=3"  title="Skills" alt="Skills" />&nbsp;
 </div>
@@ -37,6 +37,7 @@ My name is Zayan O. I'm a software developer with 1 year of experience, speciali
     <img src="https://img.shields.io/badge/Follow-mrsajadpp-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 ## Contact Information
 Feel free to reach out to me via email at zayanolakara127@gmail.com.
 
@@ -48,4 +49,3 @@ I'm currently working on several projects, and you can find them on my GitHub pr
 - Personal Website: [Your Website](https://www.yourwebsite.com)
 
 Looking forward to connecting with you!
-
