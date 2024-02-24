@@ -13,6 +13,7 @@ My name is Zayan O. I'm a software developer with 1 year of experience, speciali
 - Bootstrap
 - TypeScript
 - Git
+- <br>
 ![Skills](https://skillicons.dev/icons?i=python,html,js,cpp,css,git,bootstrap,c,typescript&perline=3)
 
 ## Contact Information
