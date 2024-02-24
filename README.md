@@ -21,8 +21,8 @@ My name is Zayan O. I'm a software developer with 1 year of experience, speciali
 </br>
 
 <div id="badges">
-  <a href="mailto:sajad@thintry.com"> 
-    <img src="https://img.shields.io/badge/Connect-sajad%40thintry.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  <a href="mailto:zayanolakara127@gmail.com"> 
+    <img src="https://img.shields.io/badge/Connect-zayan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://instagram.com/mrsajadpp">
     <img src="https://img.shields.io/badge/Follow-mrsajadpp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
