@@ -22,6 +22,6 @@ I'm currently working on several projects, and you can find them on my GitHub pr
 
 ## Get in Touch
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Personal Website: [Your Website](https://www.yourwebsite.com)
+- Company Website: [Your Website](https://www.braitenx.com)
 
 Looking forward to connecting with you!
