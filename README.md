@@ -20,10 +20,10 @@ My name is Zayan O. I'm a software developer with 1 year of experience, speciali
 </div>
 </br>
 
-<div id="badges">
-  <a href="mailto:zayanolakara127@gmail.com"> 
+
+<!--  <a href="mailto:zayanolakara127@gmail.com"> 
     <img src="https://img.shields.io/badge/Connect-zayan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+  </a> 
   <a href="https://instagram.com/mrsajadpp">
     <img src="https://img.shields.io/badge/Follow-mrsajadpp-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
@@ -35,8 +35,8 @@ My name is Zayan O. I'm a software developer with 1 year of experience, speciali
   </a>
   <a href="https://twitter.com/mrsajadpp">
     <img src="https://img.shields.io/badge/Follow-mrsajadpp-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+  </a> 
+</div> -->
 
 ## Contact Information
 Feel free to reach out to me via email at zayanolakara127@gmail.com.
