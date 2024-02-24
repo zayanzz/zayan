@@ -6,7 +6,7 @@ My name is Zayan O. I'm a software developer with 1 year of experience, speciali
 - 1 year of experience in software development.
 
 ## Skills
-- HTML
+- HTML 
 - CSS
 - JavaScript
 - MERN Stack (MongoDB, Express.js, React.js, Node.js)
