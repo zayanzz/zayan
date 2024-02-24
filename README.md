@@ -13,8 +13,8 @@ My name is Zayan O. I'm a software developer with 1 year of experience, speciali
 - Bootstrap
 - TypeScript
 - Git
- <br>
- 
+<br>
+
 ![Skills](https://skillicons.dev/icons?i=python,html,js,cpp,css,git,bootstrap,c,typescript&perline=3)
 
 ## Contact Information
@@ -27,4 +27,4 @@ I'm currently working on several projects, and you can find them on my GitHub pr
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
 - Personal Website: [Your Website](https://www.yourwebsite.com)
 
-Looking forward to connecting with you!
+🌟 Ready to bring your visions to life in the digital realm? Let's team up and transform your ideas into a thriving digital presence! With our collaborative approach, we'll craft web solutions that go above and beyond expectations. Don't hesitate—reach out today, and let's kickstart a journey of innovation and triumph together!
