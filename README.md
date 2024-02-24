@@ -14,6 +14,12 @@ My name is Zayan O. I'm a software developer with 1 year of experience, speciali
 - TypeScript
 - Git
 
+## Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
+
 ## Contact Information
 Feel free to reach out to me via email at zayanolakara127@gmail.com.
 
@@ -22,6 +28,6 @@ I'm currently working on several projects, and you can find them on my GitHub pr
 
 ## Get in Touch
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Company Website: [Your Website](https://www.braitenx.com)
+- Personal Website: [Your Website](https://www.yourwebsite.com)
 
 Looking forward to connecting with you!
